@@ -11,3 +11,6 @@
 | `MySQL` | 8.0.16 |
 | `bootstrap` | 3.2.1 |
 
+### 项目截图
+-  *用户登录页面*
+！[]（https://raw.githubusercontent.com/YUbuntu0109/SSM-SMS/master/demonstration_picture/SMS-Login-view.PNG）
